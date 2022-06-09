@@ -1,3 +1,3 @@
-# caminos_repetitivos Top Gun Lab 2022
+# caminos_repetitivos Top Gun Lab Python 2022
 
 nombre: Daniel Martínez
